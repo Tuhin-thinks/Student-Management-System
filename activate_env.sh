@@ -1,0 +1,1 @@
+source $hdd_home/python_venv/django_env/bin/activate
